@@ -1,0 +1,7 @@
+config/keys.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.wav
+models/
